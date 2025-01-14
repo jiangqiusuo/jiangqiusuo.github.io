@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-01-14T06:49:38.609Z</updated>
+  <updated>2025-01-14T07:37:46.619Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>&#39;如何做技术分享&#39;</title>
+    <link href="http://example.com/2025/01/14/%E5%A6%82%E4%BD%95%E5%81%9A%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    <id>http://example.com/2025/01/14/%E5%A6%82%E4%BD%95%E5%81%9A%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</id>
+    <published>2025-01-14T07:35:59.000Z</published>
+    <updated>2025-01-14T07:37:46.619Z</updated>
+    
+    <content type="html"><![CDATA[<p>目前正在编辑中…</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;目前正在编辑中…&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>做技术分享的方法</title>
-    <link href="http://example.com/2025/01/14/%E5%81%9A%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E7%9A%84%E6%96%B9%E6%B3%95/"/>
-    <id>http://example.com/2025/01/14/%E5%81%9A%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E7%9A%84%E6%96%B9%E6%B3%95/</id>
-    <published>2025-01-14T01:16:30.161Z</published>
-    <updated>2025-01-14T06:49:38.609Z</updated>
+    <link href="http://example.com/1970/01/01/%E5%81%9A%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E7%9A%84%E6%96%B9%E6%B3%95/"/>
+    <id>http://example.com/1970/01/01/%E5%81%9A%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E7%9A%84%E6%96%B9%E6%B3%95/</id>
+    <published>1970-01-01T05:37:30.114Z</published>
+    <updated>2025-01-14T07:37:09.749Z</updated>
     
     <content type="html"><![CDATA[<h1 id="做技术分享的方法"><a href="#做技术分享的方法" class="headerlink" title="做技术分享的方法"></a>做技术分享的方法</h1><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ol><li>everything is a remix</li><li>打造第二大脑  蒂亚戈.福特</li><li>奔跑吧，程序员 叶夫根尼.布里克曼</li><li>如何成为一名很厉害的培训师  王鹏程</li><li>三步成师  小胡子老师陈陈</li><li>如何写作  字节调动PDI技术写作团队</li></ol><h2 id="整体思路"><a href="#整体思路" class="headerlink" title="整体思路"></a>整体思路</h2><p>CODE</p><p>C:Capture(搜集)</p><p>O:Organize(整理)</p><p>D:Distill(萃取)</p><p>E:Express(表达)</p><h2 id="搜集"><a href="#搜集" class="headerlink" title="搜集"></a>搜集</h2><p>素材是原材料，搜集也是创作者平时就需要养成的一个习惯，所有新出现的、有创造性的东西，都是之前点的集大成者，举例包括：微软windows抄苹果，苹果抄Xerox PARC的Alto，Alto又是从斯坦福研究院的NLS计算机获得灵感</p><p>如何搜集素材：</p><p>混合和模仿并非是坏事，混搭和重新合成是产生新点子的常见方法。创造力的产生可以归结为三个阶段，这三个阶段都不过是不同形式的重新合成。模仿、转换、合并。</p><h2 id="整理"><a href="#整理" class="headerlink" title="整理"></a>整理</h2><p>整理需要将上一步搜集到的素材进行分类、组织和整理</p><p>根据当前的需要，对上一步搜集到的素材进行裁剪，并按照一定的结构进行组织和整理，比如常见的’金字塔’结构。</p><p>什么是金字塔结构：<br>金字塔结构主要遵循四个核心原则—论、证、类、比—这四个原则可以从<strong>纵向</strong>和<strong>横向</strong>两个维度去理解</p><ul><li>纵向关系：包括<strong>结论先行</strong>和<strong>以上统下</strong>两大原则，在纵向关系上层层延伸，可以让内容有深度，形成文档的主干<ul><li>结论先行<ul><li>定义：开门见山，把核心观点或者中心思想放在文档的开头位置，让读者一目了然</li><li>重要性：不同于通过制造悬念吸引读者的小说问题，实用文体写作的目的是为了高效的传递信息，结论先行可以让读者快速抓住文档核心观点。</li></ul></li><li>以上统下<ul><li>定义：上层结论是概括总结，然后通过下层信息进行具体解释和说明<ul><li>上层对下层的概括总结，并得出结论。</li><li>下层对上层的论证，并给出论据</li><li>上下层之间形成严谨的对应关系，前后呼应</li></ul></li><li>重要性：有理有据，让内容更具有说服力和支撑力</li></ul></li></ul></li><li>横向关系：同一层次之间的并列关系或者推进关系，横向全面梳理关系，拓宽内容广度，形成文档的脉络。<ul><li>归类分组<ul><li>定义：把相关的信息按照一定的标准进行划分归类，归为同一个逻辑范畴</li><li>重要性：分类的过程是探寻事务和问题本质的过程，让原本模糊混乱的信息变得有秩序，便于读者获取和记忆。</li></ul></li><li>逻辑递进<ul><li>定义：按照逻辑顺序递进排序信息。</li><li>重要性：梳理信息之间的逻辑，可以反映出事务之间的内在联系和规律。</li></ul></li></ul></li></ul><h2 id="萃取"><a href="#萃取" class="headerlink" title="萃取"></a>萃取</h2><p>不是大自然的搬运工，为了表达自己的思想，所以需要对素材进行萃取提炼，建立一个认知模型，比如这里用到的code模型</p><h2 id="表达"><a href="#表达" class="headerlink" title="表达"></a>表达</h2><p>可以通过写文章或者做分享，来表达自己的内容和观点，除了口语和文字，也可以通过ppt和图片来辅助进行分享</p><p>需要处理的信息结构，主要分为5个层次：data、information、knowledge、insight（洞见）&amp;wisdom（智慧）</p><ul><li>信息结构：DIKIW<ul><li>Data（数据）：数据是一组有意义的符号，数据通常是未经加工的，数据本身没有特定的含义，比如数字、字符或者图像等，数据是事实的原始记录，是对现象或事物的客观描述；</li><li>Information：信息用来消除不确定性的。当数据被加工、组织或者以某种方式解释时，他就转化为了信息。信息是有意义的数据，是对数据进行解释、整理、归纳后的产物；</li><li>Knowledge：知识是对信息的总结和提炼。知识是我们对信息进行深度挖掘和综合分析得到的有用材料，为我们提供了理解世界和解决问题的基础；</li><li>Insight：洞见是一种高级认知能力和决策能力，也是一种透过现象看本质的能力；</li><li>Wisdom：智慧通常是指在某些方面能够做出正确的判断和决策。智慧不仅包含已知的知识和技能，还包含对未知事物的洞察和遇见能力。智慧是基于一直的知识和经验，对未来趋势的预测和判断，对复杂问题的创新和解决能力。</li></ul></li></ul>]]></content>
     
@@ -33,6 +54,8 @@
     
     
     
+    
+    <category term="技术分享" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
     
   </entry>
   
